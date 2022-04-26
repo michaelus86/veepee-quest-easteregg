@@ -9,11 +9,8 @@ console.log('Script started successfully');
 WA.onInit().then(() => {
     console.log('Scripting API ready');
 
-    if (Barcelone.mapIsLoaded())
-        new Barcelone();
-
-    if (BarceloneRooftop.mapIsLoaded())
-        new BarceloneRooftop();
+    new Barcelone();
+    new BarceloneRooftop();
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
     bootstrapExtra().then(() => {

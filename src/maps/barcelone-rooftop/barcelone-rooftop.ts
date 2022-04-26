@@ -9,8 +9,6 @@ import { TicTacToe } from './triggers/tic-tac-toe';
  */
 export class BarceloneRooftop
 {
-    static mapIsLoaded = (): boolean => (WA.room.id.search('barcelone-rooftop.json') > -1);
-
     constructor()
     {
         new TicTacToe();
