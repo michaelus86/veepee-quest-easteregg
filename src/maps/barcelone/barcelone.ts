@@ -19,8 +19,6 @@ import { EastereggPlantTrigger } from './triggers/easteregg-plant';
  */
 export class Barcelone
 {
-    static mapIsLoaded = (): boolean => (WA.room.id.search('barcelone.json') > -1);
-
     constructor()
     {
         const solutionStatus = new SolutionStatus();
