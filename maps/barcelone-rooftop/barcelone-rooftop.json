@@ -112,7 +112,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/barcelone\/barcelone.json#startLift"
+                 "value":"\/@\/veepee\/brief-virtual-office\/barcelone#startLift"
                 }],
          "type":"tilelayer",
          "visible":true,

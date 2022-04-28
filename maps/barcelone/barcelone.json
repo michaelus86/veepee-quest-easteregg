@@ -1157,7 +1157,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/barcelone-rooftop\/barcelone-rooftop.json"
+                 "value":"\/@\/veepee\/brief-virtual-office\/barcelone-rooftop"
                 }],
          "type":"tilelayer",
          "visible":true,
